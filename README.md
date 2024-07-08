@@ -1,4 +1,6 @@
 # MENTORNESS
+
+**HOTEL_ANALYSIS**
 This project allowed me to gain valuable insights into guest preferences, booking trends, and key operational factors that impact the hotel industry.
 
 🔍 Key Highlights:
